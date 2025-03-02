@@ -1,13 +1,20 @@
 # Portfolio.Data
 
-A list of developer portfolios for your inspiration
+A curated collection of developer portfolios to spark your inspiration ⚡
 
-Have you built a portfolio? Are you proud of it?! Open a [PR](./CONTRIBUTING.md) to this repo and let's showcase your work! Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
-This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
+Built something you're proud of? Have a portfolio that's too good to keep to yourself?
+Open a [PR](./CONTRIBUTING.md) and showcase your work with the world! 🌍✨
+(Check out the CONTRIBUTING file for all the details.)
+
+This repo was sparked by [Ali Spittel's](https://twitter.com/ASpittel) tweet that got us thinking —
+What if there was one place to discover awesome portfolios, get inspired, and share your own?
+
+Whether you're just starting out or leveling up your personal brand, we hope Portfolio.Data becomes your go-to inspiration hub. 💡🚀
+
 [<img width="597" alt="Portfolio" src="">]()
 
-Hopefully this repo can serve as a source of inspiration for your portfolio!
+
 
 ## Current Portfolio Count: 902
 
