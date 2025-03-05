@@ -5,7 +5,7 @@ A curated collection of developer portfolios to spark your inspiration ⚡
 
 Built something you're proud of? Have a portfolio that's too good to keep to yourself?
 Open a [PR](./CONTRIBUTING.md) and showcase your work with the world! 🌍✨
-(Check out the CONTRIBUTING file for all the details.)
+(Check out the [CONTRIBUTING](./CONTRIBUTING.md) file for all the details.)
 
 🚀 This repo was sparked while building my [Portfolio](https://www.abhishekworks.com/) — I struggled to find creative ideas, so I thought, why not create a single place to discover awesome portfolios 🌐, get inspired 💡, and share your own?
 
