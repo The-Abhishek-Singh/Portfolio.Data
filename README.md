@@ -7,8 +7,8 @@ Built something you're proud of? Have a portfolio that's too good to keep to you
 Open a [PR](./CONTRIBUTING.md) and showcase your work with the world! 🌍✨
 (Check out the CONTRIBUTING file for all the details.)
 
-This repo was sparked by [Ali Spittel's](https://twitter.com/ASpittel) tweet that got us thinking —
-What if there was one place to discover awesome portfolios, get inspired, and share your own?
+🚀 This repo was sparked while building my [Portfolio](https://www.abhishekworks.com/) — I struggled to find creative ideas, so I thought, why not create a single place to discover awesome portfolios 🌐, get inspired 💡, and share your own?
+
 
 Whether you're just starting out or leveling up your personal brand, we hope Portfolio.Data becomes your go-to inspiration hub. 💡🚀
 
