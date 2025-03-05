@@ -12,7 +12,6 @@ Open a [PR](./CONTRIBUTING.md) and showcase your work with the world! 🌍✨
 
 Whether you're just starting out or leveling up your personal brand, I hope Portfolio.Data becomes your go-to inspiration hub. 💡🚀
 
-[<img width="597" alt="Portfolio" src="https://www.abhishekworks.com/">]()
 
 
 
