@@ -10,7 +10,7 @@ Open a [PR](./CONTRIBUTING.md) and showcase your work with the world! 🌍✨
 🚀 This repo was sparked while building my [Portfolio](https://www.abhishekworks.com/) — I struggled to find creative ideas, so I thought, why not create a single place to discover awesome portfolios 🌐, get inspired 💡, and share your own?
 
 
-Whether you're just starting out or leveling up your personal brand, we hope Portfolio.Data becomes your go-to inspiration hub. 💡🚀
+Whether you're just starting out or leveling up your personal brand, I hope Portfolio.Data becomes your go-to inspiration hub. 💡🚀
 
 [<img width="597" alt="Portfolio" src="https://www.abhishekworks.com/">]()
 
